@@ -1,0 +1,12 @@
+body {
+    margin: 0 auto;
+}
+
+head {
+    border-bottom: solid 1px;
+    margin: 0;
+}
+
+.memobox {
+    border: solid 1px;
+}
