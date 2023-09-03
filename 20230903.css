@@ -1,5 +1,6 @@
 body {
     margin: 0 auto;
+    text-align: center;
 }
 
 head {
@@ -9,4 +10,8 @@ head {
 
 .memobox {
     border: solid 1px;
+}
+
+.order {
+    text-align: left;
 }
