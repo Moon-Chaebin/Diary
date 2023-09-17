@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+head h1 {
+  font-size: 100px;
+}
+
+.list {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.write {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: 100vh;
+}
+
+form input {
+  margin: 50px 0px;
+}
+
+form input[type="date"] {
+  width: 70vw;
+}
+
+form textarea {
+  width: 70vw;
+  height: 50vw;
+}
+
+content a {
+  color: black;
+}
